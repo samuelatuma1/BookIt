@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using BookIt.Core.Application.Feature.Authentication.User.Command;
+using BookIt.Core.Application.Feature.Authentication.UserFeature.Command;
 using BookIt.Core.Domain.Authentication.Entity;
 using System;
 using System.Collections.Generic;

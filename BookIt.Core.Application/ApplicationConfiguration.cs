@@ -14,6 +14,7 @@ namespace BookIt.Core.Application
     {
         public static IServiceCollection AddApplicationServices(this IServiceCollection services, IConfiguration configuration)
         {
+            services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()));
             services.Configure<HashConfig>(configuration.GetSection(nameof(HashConfig)));
             services.AddAutoMapper(Assembly.GetExecutingAssembly());
             return services;

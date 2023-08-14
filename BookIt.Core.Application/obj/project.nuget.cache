@@ -1,21 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "j857N5lKhkTDRN+2NEi3rNfjQn62r8Mm6POaTAzLEgysTZfgg9+zCCSoSSiDOkIDcpxXwCy0lTAOTf1FtQXwtw==",
+  "dgSpecHash": "wbqwpwUb9d0Pb+ha2g9F2TeOinnS8XUsVqgTBAV1pagBrYQ5/ugZN4gGRyV/ucAdAy6gjaeTBOg3b1RUzQlpgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ugochukwu Nwamanna\\OneDrive\\Desktop\\BookIt\\BookIt.Solution\\BookIt.Core.Application\\BookIt.Core.Application.csproj",
+  "projectFilePath": "/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Application/BookIt.Core.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ugochukwu Nwamanna\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\Ugochukwu Nwamanna\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
-    "C:\\Users\\Ugochukwu Nwamanna\\.nuget\\packages\\fluentvalidation\\11.7.0\\fluentvalidation.11.7.0.nupkg.sha512",
-    "C:\\Users\\Ugochukwu Nwamanna\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
-    "C:\\Users\\Ugochukwu Nwamanna\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\Ugochukwu Nwamanna\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\Ugochukwu Nwamanna\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Ugochukwu Nwamanna\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
-    "C:\\Users\\Ugochukwu Nwamanna\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Ugochukwu Nwamanna\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
-    "C:\\Users\\Ugochukwu Nwamanna\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Ugochukwu Nwamanna\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+    "/Users/samuelatuma/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/fluentvalidation/11.7.0/fluentvalidation.11.7.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.extensions.configuration.binder/7.0.0/microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.extensions.options.configurationextensions/7.0.0/microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

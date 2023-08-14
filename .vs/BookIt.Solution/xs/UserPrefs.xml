@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{BA51FDC8-3C1C-4929-9E52-606F4F478022}|https">
+  <MonoDevelop.Ide.ItemProperties.BookIt.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookIt.Core.Application/Feature/Authentication/UserFeature/Command/SignupCommandRequestHandler.cs">
+    <Files>
+      <File FileName="BookIt.Core.Application/MappingProfiles/AuthProfile.cs" />
+      <File FileName="BookIt.Core.Domain/BaseApp/Model/BaseModel.cs" />
+      <File FileName="BookIt.Core.Domain/BaseApp/Entity/BaseEntity.cs" />
+      <File FileName="BookIt.Core.Application/Feature/Authentication/UserFeature/Command/SignupCommandRequest.cs" />
+      <File FileName="BookIt.Core.Application/Feature/Authentication/UserFeature/Command/SignupCommandRequestHandler.cs" Line="15" Column="77" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookIt.Solution">
+            <Node name="BookIt.Core.Application" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Feature" expanded="True">
+                <Node name="Authentication" expanded="True">
+                  <Node name="UserFeature" expanded="True">
+                    <Node name="Command" expanded="True" />
+                    <Node name="Common" expanded="True">
+                      <Node name="Dto" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="MappingProfiles" expanded="True" />
+              <Node name="Utilities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

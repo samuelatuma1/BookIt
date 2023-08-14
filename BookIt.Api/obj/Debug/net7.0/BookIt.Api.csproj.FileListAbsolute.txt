@@ -1,33 +1,66 @@
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\bin\Debug\net7.0\appsettings.json
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\bin\Debug\net7.0\BookIt.Api.exe
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\bin\Debug\net7.0\BookIt.Api.deps.json
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\bin\Debug\net7.0\BookIt.Api.runtimeconfig.json
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\bin\Debug\net7.0\BookIt.Api.dll
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\bin\Debug\net7.0\BookIt.Api.pdb
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\BookIt.Api.csproj.AssemblyReference.cache
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\BookIt.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\BookIt.Api.AssemblyInfoInputs.cache
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\BookIt.Api.AssemblyInfo.cs
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\BookIt.Api.csproj.CoreCompileInputs.cache
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\BookIt.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\BookIt.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\staticwebassets\msbuild.BookIt.Api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.BookIt.Api.props
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BookIt.Api.props
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BookIt.Api.props
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\scopedcss\bundle\BookIt.Api.styles.css
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\BookIt.Api.csproj.CopyComplete
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\BookIt.Api.dll
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\refint\BookIt.Api.dll
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\BookIt.Api.pdb
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\BookIt.Api.genruntimeconfig.cache
-C:\Users\Ugochukwu Nwamanna\OneDrive\Desktop\BookIt\BookIt.Solution\BookIt.Api\obj\Debug\net7.0\ref\BookIt.Api.dll
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/bin/Debug/net7.0/appsettings.json
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/bin/Debug/net7.0/BookIt.Api.exe
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/bin/Debug/net7.0/BookIt.Api.deps.json
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/bin/Debug/net7.0/BookIt.Api.runtimeconfig.json
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/bin/Debug/net7.0/BookIt.Api.dll
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/bin/Debug/net7.0/BookIt.Api.pdb
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/BookIt.Api.csproj.AssemblyReference.cache
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/BookIt.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/BookIt.Api.AssemblyInfoInputs.cache
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/BookIt.Api.AssemblyInfo.cs
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/BookIt.Api.csproj.CoreCompileInputs.cache
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/BookIt.Api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/BookIt.Api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/staticwebassets/msbuild.BookIt.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/staticwebassets/msbuild.build.BookIt.Api.props
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookIt.Api.props
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookIt.Api.props
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/scopedcss/bundle/BookIt.Api.styles.css
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/BookIt.Api.csproj.CopyComplete
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/BookIt.Api.dll
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/refint/BookIt.Api.dll
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/BookIt.Api.pdb
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/BookIt.Api.genruntimeconfig.cache
+C:/Users/Ugochukwu Nwamanna/OneDrive/Desktop/BookIt/BookIt.Solution/BookIt.Api/obj/Debug/net7.0/ref/BookIt.Api.dll
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/bin/Debug/net7.0/appsettings.Development.json
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/bin/Debug/net7.0/appsettings.json
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/bin/Debug/net7.0/BookIt.Api
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/bin/Debug/net7.0/BookIt.Api.deps.json
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/bin/Debug/net7.0/BookIt.Api.runtimeconfig.json
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/bin/Debug/net7.0/BookIt.Api.dll
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/bin/Debug/net7.0/BookIt.Api.pdb
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/BookIt.Api.csproj.AssemblyReference.cache
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/BookIt.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/BookIt.Api.AssemblyInfoInputs.cache
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/BookIt.Api.AssemblyInfo.cs
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/BookIt.Api.csproj.CoreCompileInputs.cache
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/BookIt.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/BookIt.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/staticwebassets/msbuild.BookIt.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/staticwebassets/msbuild.build.BookIt.Api.props
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookIt.Api.props
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookIt.Api.props
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/scopedcss/bundle/BookIt.Api.styles.css
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/BookIt.Api.csproj.CopyComplete
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/BookIt.Api.dll
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/refint/BookIt.Api.dll
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/BookIt.Api.pdb
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/BookIt.Api.genruntimeconfig.cache
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/Debug/net7.0/ref/BookIt.Api.dll

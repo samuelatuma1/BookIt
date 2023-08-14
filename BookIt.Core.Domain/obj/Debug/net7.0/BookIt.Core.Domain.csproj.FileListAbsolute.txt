@@ -1,0 +1,12 @@
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Domain/bin/Debug/net7.0/BookIt.Core.Domain.deps.json
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Domain/bin/Debug/net7.0/BookIt.Core.Domain.dll
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Domain/bin/Debug/net7.0/BookIt.Core.Domain.pdb
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Domain/obj/Debug/net7.0/BookIt.Core.Domain.csproj.AssemblyReference.cache
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Domain/obj/Debug/net7.0/BookIt.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Domain/obj/Debug/net7.0/BookIt.Core.Domain.AssemblyInfoInputs.cache
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Domain/obj/Debug/net7.0/BookIt.Core.Domain.AssemblyInfo.cs
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Domain/obj/Debug/net7.0/BookIt.Core.Domain.csproj.CoreCompileInputs.cache
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Domain/obj/Debug/net7.0/BookIt.Core.Domain.dll
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Domain/obj/Debug/net7.0/refint/BookIt.Core.Domain.dll
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Domain/obj/Debug/net7.0/BookIt.Core.Domain.pdb
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Domain/obj/Debug/net7.0/ref/BookIt.Core.Domain.dll

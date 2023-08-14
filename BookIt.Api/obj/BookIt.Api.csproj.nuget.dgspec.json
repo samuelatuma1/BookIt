@@ -1,29 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ugochukwu Nwamanna\\OneDrive\\Desktop\\BookIt\\BookIt.Solution\\BookIt.Api\\BookIt.Api.csproj": {}
+    "/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/BookIt.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ugochukwu Nwamanna\\OneDrive\\Desktop\\BookIt\\BookIt.Solution\\BookIt.Api\\BookIt.Api.csproj": {
+    "/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/BookIt.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ugochukwu Nwamanna\\OneDrive\\Desktop\\BookIt\\BookIt.Solution\\BookIt.Api\\BookIt.Api.csproj",
+        "projectUniqueName": "/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/BookIt.Api.csproj",
         "projectName": "BookIt.Api",
-        "projectPath": "C:\\Users\\Ugochukwu Nwamanna\\OneDrive\\Desktop\\BookIt\\BookIt.Solution\\BookIt.Api\\BookIt.Api.csproj",
-        "packagesPath": "C:\\Users\\Ugochukwu Nwamanna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ugochukwu Nwamanna\\OneDrive\\Desktop\\BookIt\\BookIt.Solution\\BookIt.Api\\obj\\",
+        "projectPath": "/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/BookIt.Api.csproj",
+        "packagesPath": "/Users/samuelatuma/.nuget/packages/",
+        "outputPath": "/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ugochukwu Nwamanna\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/samuelatuma/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.app.flwdev.site/nuget": {}
         },
         "frameworks": {
           "net7.0": {
@@ -69,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }
