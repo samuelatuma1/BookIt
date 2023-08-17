@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Domain/BookIt.Core.Domain.csproj": {}
+    "C:\\Opus\\Work\\Projects\\.NET\\BookIt\\BookIt\\BookIt.Core.Domain\\BookIt.Core.Domain.csproj": {}
   },
   "projects": {
-    "/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Domain/BookIt.Core.Domain.csproj": {
+    "C:\\Opus\\Work\\Projects\\.NET\\BookIt\\BookIt\\BookIt.Core.Domain\\BookIt.Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Domain/BookIt.Core.Domain.csproj",
+        "projectUniqueName": "C:\\Opus\\Work\\Projects\\.NET\\BookIt\\BookIt\\BookIt.Core.Domain\\BookIt.Core.Domain.csproj",
         "projectName": "BookIt.Core.Domain",
-        "projectPath": "/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Domain/BookIt.Core.Domain.csproj",
-        "packagesPath": "/Users/samuelatuma/.nuget/packages/",
-        "outputPath": "/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Domain/obj/",
+        "projectPath": "C:\\Opus\\Work\\Projects\\.NET\\BookIt\\BookIt\\BookIt.Core.Domain\\BookIt.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\JB\\.nuget\\packages\\",
+        "outputPath": "C:\\Opus\\Work\\Projects\\.NET\\BookIt\\BookIt\\BookIt.Core.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/samuelatuma/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\JB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.app.flwdev.site/nuget": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

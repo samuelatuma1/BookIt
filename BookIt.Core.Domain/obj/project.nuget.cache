@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J3kHC3IaNkLo2j6LT8q9aRF6+8qNwmAgqWClTBTc7zHRlDXGhp+pJOYldx+7H9ogXrIXZ4RwwedGu02rYwoaJA==",
+  "dgSpecHash": "DhLDeLsdJ2zWHPrMkxvykLV+YB5HgKwWtoLNwAfJYSpGrQxrof2qOQhvQjZG4fch/8HmGZDATJ3sM2/Y5KxxBw==",
   "success": true,
-  "projectFilePath": "/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Domain/BookIt.Core.Domain.csproj",
+  "projectFilePath": "C:\\Opus\\Work\\Projects\\.NET\\BookIt\\BookIt\\BookIt.Core.Domain\\BookIt.Core.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
