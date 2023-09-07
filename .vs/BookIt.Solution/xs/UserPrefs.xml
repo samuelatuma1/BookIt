@@ -1,79 +1,49 @@
 ﻿<Properties StartupConfiguration="{BA51FDC8-3C1C-4929-9E52-606F4F478022}|https">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Api/Controllers/Authentication/UserController.cs" relfile="BookIt.Api/Controllers/Authentication/UserController.cs" line="22" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.BookIt.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="BookIt.Api/Middleware/ExceptionMiddleware.cs">
     <Files>
-      <File FileName="BookIt.Core.Application/MappingProfiles/AuthProfile.cs" Line="17" Column="1" />
+      <File FileName="BookIt.Core.Application/MappingProfiles/AuthProfile.cs" />
       <File FileName="BookIt.Core.Domain/BaseApp/Model/BaseModel.cs" />
-      <File FileName="BookIt.Core.Persistence/ApplicationContext/BaseDbContext.cs" Line="13" Column="1" />
+      <File FileName="BookIt.Core.Persistence/ApplicationContext/BaseDbContext.cs" />
       <File FileName="BookIt.Core.Application/Contracts/UoW/IUnitOfWork.cs" />
-      <File FileName="BookIt.Core.Persistence/Repository/Authentication/UserRepository.cs" Line="14" Column="1" />
+      <File FileName="BookIt.Core.Persistence/Repository/Authentication/UserRepository.cs" />
       <File FileName="BookIt.Core.Persistence/Repository/BaseApp/BaseRepository.cs" />
       <File FileName="BookIt.Core.Persistence/EntityTypeConfigurations/Authentication/UserTypeConfiguration.cs" />
-      <File FileName="BookIt.Core.Persistence/UoW/UnitOfWork.cs" Line="14" Column="1" />
-      <File FileName="BookIt.Core.Infrastructure/AuthService/JwtService.cs" Line="21" Column="1" />
+      <File FileName="BookIt.Core.Persistence/UoW/UnitOfWork.cs" />
+      <File FileName="BookIt.Core.Infrastructure/AuthService/JwtService.cs" />
       <File FileName="BookIt.Core.Infrastructure/Config/JwtConfig.cs" />
       <File FileName="BookIt.Api/Controllers/BaseController/AppBaseController.cs" />
-      <File FileName="BookIt.Api/Program.cs" Line="27" Column="42" />
-      <File FileName="BookIt.Core.Persistence/PersistenceConfiguration.cs" Line="31" Column="1" />
+      <File FileName="BookIt.Api/Program.cs" />
+      <File FileName="BookIt.Core.Persistence/PersistenceConfiguration.cs" />
       <File FileName="BookIt.Core.Infrastructure/InfrastructureConfiguration.cs" />
-      <File FileName="BookIt.Core.Application/ApplicationConfiguration.cs" />
+      <File FileName="BookIt.Core.Application/ApplicationConfiguration.cs" Line="19" Column="37" />
       <File FileName="BookIt.Core.Application/Config/HashConfig.cs" />
-      <File FileName="BookIt.Core.Application/Feature/Authentication/UserFeature/Command/SignupCommandRequestValidator.cs" Line="26" Column="1" />
-      <File FileName="BookIt.Api/appsettings.Development.json" Line="15" Column="20" />
+      <File FileName="BookIt.Core.Application/Feature/Authentication/UserFeature/Command/SignupCommandRequestValidator.cs" />
+      <File FileName="BookIt.Api/appsettings.Development.json" />
       <File FileName="BookIt.Core.Application/Utilities/HashUtilites.cs" />
       <File FileName="BookIt.Core.Application/Feature/Authentication/UserFeature/Common/Services/AuthJwtService.cs" />
       <File FileName="BookIt.Core.Application/Utilities/DateTimeUtilities.cs" />
       <File FileName="BookIt.Core.Domain/Authentication/Entity/User.cs" />
-      <File FileName="BookIt.Core.Application/Feature/Authentication/UserFeature/Common/Dto/AuthResponse.cs" Line="12" Column="1" />
-      <File FileName="BookIt.Api/Middleware/ExceptionMiddleware.cs" Line="57" Column="43" />
-      <File FileName="BookIt.Api/Controllers/Authentication/UserController.cs" Line="20" Column="22" />
+      <File FileName="BookIt.Core.Application/Feature/Authentication/UserFeature/Common/Dto/AuthResponse.cs" />
+      <File FileName="BookIt.Api/Middleware/ExceptionMiddleware.cs" Line="62" Column="66" />
+      <File FileName="BookIt.Api/Controllers/Authentication/UserController.cs" Line="18" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BookIt.Solution" expanded="True">
-            <Node name="BookIt.Api">
-              <Node name="Controllers" expanded="True">
-                <Node name="Authentication" expanded="True" />
-              </Node>
-              <Node name="Middleware" expanded="True">
-                <Node name="ExceptionMiddleware.cs" selected="True" />
-              </Node>
-              <Node name="Model" expanded="True" />
-              <Node name="appsettings.json" expanded="True" />
-            </Node>
-            <Node name="BookIt.Core.Application" expanded="True">
-              <Node name="Config" expanded="True" />
-              <Node name="Exceptions" expanded="True" />
-              <Node name="Feature" expanded="True">
-                <Node name="Authentication" expanded="True">
-                  <Node name="UserFeature" expanded="True">
-                    <Node name="Command" expanded="True" />
-                    <Node name="Common" expanded="True">
-                      <Node name="Dto" expanded="True" />
-                      <Node name="Services" expanded="True" />
-                    </Node>
-                  </Node>
-                </Node>
-              </Node>
-              <Node name="MappingProfiles" expanded="True" />
-              <Node name="Utilities" expanded="True" />
-            </Node>
-            <Node name="BookIt.Core.Infrastructure" expanded="True">
-              <Node name="AuthService" expanded="True" />
-              <Node name="Config" expanded="True" />
-            </Node>
+          <Node name="BookIt.Solution">
+            <Node name="BookIt.Api" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
 </Properties>
