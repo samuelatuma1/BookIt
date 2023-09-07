@@ -1,13 +1,14 @@
 ﻿using System;
 using System.Security.Claims;
 using BookIt.Core.Application.Contracts.AuthService;
+using BookIt.Core.Domain.Authentication.Entity;
 using BookIt.Core.Domain.Authentication.Model;
 
 namespace BookIt.Core.Application.Feature.Authentication.UserFeature.Common.Services
 {
 	public static class AuthJwtService
 	{
-		public static string GenerateTokenForUser(UserModel user, IJwtService jwtService)
+		public static string GenerateTokenForUser(User user, IJwtService jwtService)
 		{
 			// Make claims for user
 			IEnumerable<Claim> claims = new List<Claim>()

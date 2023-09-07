@@ -1,0 +1,17 @@
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Infrastructure/bin/Debug/net7.0/BookIt.Core.Infrastructure.deps.json
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Infrastructure/bin/Debug/net7.0/BookIt.Core.Infrastructure.dll
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Infrastructure/bin/Debug/net7.0/BookIt.Core.Infrastructure.pdb
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Infrastructure/bin/Debug/net7.0/BookIt.Core.Application.dll
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Infrastructure/bin/Debug/net7.0/BookIt.Core.Domain.dll
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Infrastructure/bin/Debug/net7.0/BookIt.Core.Application.pdb
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Infrastructure/bin/Debug/net7.0/BookIt.Core.Domain.pdb
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Infrastructure/obj/Debug/net7.0/BookIt.Core.Infrastructure.csproj.AssemblyReference.cache
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Infrastructure/obj/Debug/net7.0/BookIt.Core.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Infrastructure/obj/Debug/net7.0/BookIt.Core.Infrastructure.AssemblyInfoInputs.cache
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Infrastructure/obj/Debug/net7.0/BookIt.Core.Infrastructure.AssemblyInfo.cs
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Infrastructure/obj/Debug/net7.0/BookIt.Core.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Infrastructure/obj/Debug/net7.0/BookIt.Core.Infrastructure.csproj.CopyComplete
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Infrastructure/obj/Debug/net7.0/BookIt.Core.Infrastructure.dll
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Infrastructure/obj/Debug/net7.0/refint/BookIt.Core.Infrastructure.dll
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Infrastructure/obj/Debug/net7.0/BookIt.Core.Infrastructure.pdb
+/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Infrastructure/obj/Debug/net7.0/ref/BookIt.Core.Infrastructure.dll

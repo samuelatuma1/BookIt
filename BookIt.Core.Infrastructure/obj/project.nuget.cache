@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "X0Bq2ceFY0qPmgm6lqN+g4QXh6RxD3uhm9IRNLHvom6xSCpFoav14FRHDySCZhaVuJ3eY+TKkXIZZ16M12l4ug==",
+  "success": true,
+  "projectFilePath": "/Users/samuelatuma/Desktop/BookIt/BookIt/BookIt.Core.Infrastructure/BookIt.Core.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/samuelatuma/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/fluentvalidation/11.7.0/fluentvalidation.11.7.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.extensions.configuration.binder/7.0.0/microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.extensions.options.configurationextensions/7.0.0/microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.identitymodel.abstractions/6.32.1/microsoft.identitymodel.abstractions.6.32.1.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.32.1/microsoft.identitymodel.jsonwebtokens.6.32.1.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.identitymodel.logging/6.32.1/microsoft.identitymodel.logging.6.32.1.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.identitymodel.tokens/6.32.1/microsoft.identitymodel.tokens.6.32.1.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/system.identitymodel.tokens.jwt/6.32.1/system.identitymodel.tokens.jwt.6.32.1.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/Users/samuelatuma/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

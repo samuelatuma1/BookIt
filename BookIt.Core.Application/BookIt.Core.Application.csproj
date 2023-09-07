@@ -26,6 +26,7 @@
     <None Remove="Contracts\Persistence\Authentication\" />
     <None Remove="Contracts\AuthService\" />
     <None Remove="Feature\Authentication\UserFeature\Common\Services\" />
+    <None Remove="Contracts\UoW\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Contracts\" />
@@ -34,5 +35,6 @@
     <Folder Include="Contracts\Persistence\Authentication\" />
     <Folder Include="Contracts\AuthService\" />
     <Folder Include="Feature\Authentication\UserFeature\Common\Services\" />
+    <Folder Include="Contracts\UoW\" />
   </ItemGroup>
 </Project>
